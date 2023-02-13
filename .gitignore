@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/Indigo Card Game/task/build/
+/Indigo Card Game/task/out/
+/Indigo Card Game/task/out/production/classes/
+/Topics/Jumps and returns/First digit/out/
+/Topics/Jumps and returns/First digit/out/production/classes/
+/Topics/Jumps and returns/Unique characters/out/
+/Topics/Jumps and returns/Unique characters/out/production/classes/
+/Topics/Named arguments/Car price/out/
+/Topics/Named arguments/Car price/out/production/classes/
+/Topics/Null safety/Nullable Boolean/out/
+/Topics/Null safety/Nullable Boolean/out/production/classes/

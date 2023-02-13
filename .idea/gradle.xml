@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Indigo Card Game/task" />
+            <option value="$PROJECT_DIR$/Indigo Card Game/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Indigo Card Game/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Indigo Card Game/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Indigo Card Game/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/ArithmeticException" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Fix the code" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Hierarchy overview" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/NumberFormat" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/RuntimeException" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Constructing a hierarchy" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Correct jumping" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/First digit" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Unique characters" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Whole truth about continue" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Car price" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Declarations" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Find the correct invocations" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Greeting" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Perimeter" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/Fake operator" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/Nullable Boolean" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/Safe round" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/The  !!  operator" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Taming exceptions/Crash a program" />
+            <option value="$PROJECT_DIR$/Topics/Taming exceptions/Handle string exception" />
+            <option value="$PROJECT_DIR$/Topics/Taming exceptions/Practice" />
+            <option value="$PROJECT_DIR$/Topics/Taming exceptions/The purpose of exceptions" />
+            <option value="$PROJECT_DIR$/Topics/Taming exceptions/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
